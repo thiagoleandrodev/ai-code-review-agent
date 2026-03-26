@@ -98,6 +98,7 @@ Nunca inclua code fences em Markdown. Não escreva texto fora do JSON.
 
 ## 📷 Exemplo de Uso
 
+Entrada:
 ```txt
 import sqlite3
 def buscar_usuario(nome):
@@ -107,7 +108,10 @@ cursor = conn.cursor()
 cursor.execute(f"SELECT * FROM usuarios WHERE nome = '{nome}'")
 return cursor.fetchall()
 
+```
 Saída:
+```txt
+
 {
   "file": "buscar_usuario.py",
   "issues": [
