@@ -233,8 +233,7 @@ Sinta-se livre para usar e modificar.
 ## 👨‍💻 Autor
 
 Desenvolvido por você 🚀
-(Adicione seu nome e LinkedIn aqui)
-
+https://www.linkedin.com/in/thiago-dev26/
 ---
 
 ## ⭐ Considerações Finais
